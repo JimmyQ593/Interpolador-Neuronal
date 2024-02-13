@@ -1,5 +1,5 @@
-#Interpolador Neuronal
-####Proyecto de la materia Inteligencia Artifical y Aprendizaje Automático de la carrera Ingeniería de Software en la Escuela Politécnica Nacional
+# Interpolador-Neuronal
+Proyecto académico de la materia Inteligencia Artificial y Aprendizaje Automático de la carrera Ingeniería de Software en la Escuela Politécnica Nacional
 
 [Enlace del artículo que sustenta su elaboración](https://drive.google.com/file/d/1Di0wfD22Bb0sMOCEPAy-NW1JSO2rvF_F/view?usp=sharing)
 ***
